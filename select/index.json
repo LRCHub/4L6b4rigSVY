@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "キミノカケラ feat. SO-TA",
+  "base_artist": "LGYankees",
+  "createdAt": "2026-02-14T15:12:59.656758Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キミノカケラ",
+      "artist": "BENI",
+      "has_synced": true,
+      "path": "select/01_キミノカケラ_BENI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君の描片～キミノカケラ～",
+      "artist": "Ayane",
+      "has_synced": false,
+      "path": "select/02_君の描片~キミノカケラ~_Ayane.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君の描片～キミノカケラ～",
+      "artist": "彩音",
+      "has_synced": false,
+      "path": "select/03_君の描片~キミノカケラ~_彩音.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キミノカケラ feat.SO-TA",
+      "artist": "LGYankees",
+      "has_synced": false,
+      "path": "select/pl_01_キミノカケラ_feat.SO-TA_LGYankees.txt"
+    }
+  ]
+}
